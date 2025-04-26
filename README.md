@@ -45,8 +45,8 @@ The Color Palette Generator is a Flask-based web application that allows users t
 
 Ensure the following structure is in place:
 
-color-palette-generator/
-├── static/ 
+color-palette-generator/  
+├── static/   
 │   └── style.css  
 ├── templates/  
 │   └── index.html  
