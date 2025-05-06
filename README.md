@@ -25,7 +25,7 @@ The Color Palette Generator is a Flask-based web application that allows users t
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Sneha-a10/colour_palette_generator.git
     cd color-palette-generator
     ```
 
