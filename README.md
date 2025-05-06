@@ -33,7 +33,7 @@ The Color Palette Generator is a Flask-based web application that allows users t
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 3.  **Install Dependencies:**
